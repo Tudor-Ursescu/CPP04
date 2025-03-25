@@ -24,7 +24,7 @@ This module introduces **polymorphism**, **abstract classes**, and **interfaces*
 
 ### 🔥 Exercise 01: I Don’t Want to Set the World on Fire
 
--Implement a **Brain** class containing a `std::string ideas[100];`
+- Implement a **Brain** class containing a `std::string ideas[100];`
 
 - Modify **Dog** and **Cat** to have a private `Brain*` attribute:
 
